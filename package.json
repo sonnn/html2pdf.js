@@ -1,13 +1,13 @@
 {
   "name": "html2pdf-fix-jspdf",
-  "version": "0.9.1",
+  "version": "0.0.2",
   "description": "Client-side HTML-to-PDF rendering using pure JS",
   "main": "dist/require/html2pdf.cjs.js",
   "module": "dist/include/html2pdf.es.js",
   "browser": "dist/html2pdf.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eKoopmans/html2pdf.js.git"
+    "url": "git+https://github.com/sonnn/html2pdf.js.git"
   },
   "keywords": [
     "javascript",
@@ -29,7 +29,7 @@
   "dependencies": {
     "es6-promise": "^4.2.5",
     "html2canvas": "^1.0.0-alpha.12",
-    "jspdf": "sonnn/jsPDF#master"
+    "jspdf-fix-html2pdf": "0.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
