@@ -1,5 +1,5 @@
 /**
- * html2pdf-fix-jspdf v0.0.1
+ * html2pdf-fix-jspdf v0.0.4
  * Copyright (c) 2019 Erik Koopmans
  * Released under the MIT License.
  */
